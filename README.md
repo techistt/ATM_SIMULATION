@@ -22,6 +22,7 @@ Modular programming
 The system allows users to create accounts, log in, and perform banking operations. It also includes a password-protected Admin Panel to manage all accounts.
 
 🚀 Features
+
 👤 User Features
 
 After logging into an existing account, users can:
