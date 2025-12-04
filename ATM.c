@@ -261,7 +261,7 @@ void displayAccount(struct Account a) // Function to display account details
 void saveToFile(struct Account acc[],int n) // Function to save account data to file 
 {
     FILE *fp = fopen("ATM.txt", "w");
-      if (fp == NULL)
+      if (fp==NULL)
       {
           return;
       }
@@ -275,7 +275,7 @@ void saveToFile(struct Account acc[],int n) // Function to save account data to 
 void loadFromFile(struct Account acc[],int *n) // Function to load account data from file
 {
   FILE *fp = fopen("ATM.txt", "r");
-   if (fp == NULL) 
+   if (fp==NULL) 
    {
       return;
    }
