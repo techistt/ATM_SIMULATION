@@ -58,11 +58,11 @@ Password-protected admin dashboard with abilities to:
 ⚙️ Technologies Used
 
 Component                    	Description
-Language	                    C
-Compiler	                    MinGW (GCC)
-IDE/Editor	                  Visual Studio Code
-Storage	                      File Handling (Binary/Text)
-Concepts Used	                Structures, Pointers, Functions, File I/O, Conditionals
+Language:	                    C
+Compiler:	                    MinGW (GCC)
+IDE/Editor:	                  Visual Studio Code
+Storage:	                      File Handling (Binary/Text)
+Concepts Used:	                Structures, Pointers, Functions, File I/O, Conditionals
 
 🧱 Project Workflow
 
